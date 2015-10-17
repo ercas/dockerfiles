@@ -1,2 +1,2 @@
 # dockerfiles
-docker files for docker hub's automated build system
+these are available as images on [my docker hub page](http://hub.docker.com/u/ercas)
